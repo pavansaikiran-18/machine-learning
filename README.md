@@ -1,1 +1,1 @@
-# machine-learning
+Credit Score Classification Project
